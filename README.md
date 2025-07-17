@@ -1,2 +1,2 @@
-# Ev_Charging_Prediction
-AICTE INTERSHIP ABOUT EV_VECHILE_DEMAND_PREDICTION 
+# EV_ADOPTION_PREDICTION
+Aicte_Intership_About_Ev_Vechile_Demand_Prediction
